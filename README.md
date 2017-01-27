@@ -1,1 +1,1 @@
-# blog_laravel
+Simple blog using Laravel 5.2
